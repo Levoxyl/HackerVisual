@@ -28,4 +28,4 @@ Fun hacker interfaces only for visual comfort :)
 
    ```bash
    git clone https://github.com/Levoxyl/HackerVisual.git
-   cd hcker-visual
+   cd HackerVisual
