@@ -3,7 +3,7 @@ Fun hacker interfaces only for visual comfort :)
 
 # Hacker Visual
 
-**Hcker Visual** is a simple, extensible Python-based graphical application built using the `tkinter` library. It serves as a foundational visual tool with plans for expansion into other visual software modules.
+**Hacker Visual** is a simple, extensible Python-based graphical application built using the `tkinter` library. It serves as a foundational visual tool with plans for expansion into other visual software modules.
 
 ---
 
