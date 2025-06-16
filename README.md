@@ -27,5 +27,5 @@ Fun hacker interfaces only for visual comfort :)
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/hcker-visual.git
+   git clone https://github.com/Levoxyl/HackerVisual.git
    cd hcker-visual
